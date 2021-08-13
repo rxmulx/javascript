@@ -1,0 +1,22 @@
+body{
+background: rgba(59, 59, 242, 0.344);
+
+}
+header{
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+size: 3em;
+
+}
+main{
+background: antiquewhite;
+padding: 10px;
+margin: auto;
+width: 500px;
+box-shadow: rgba(0, 0, 0, 0.453);
+border-radius: 10px;
+
+}
+footer{
+    text-align: center;
+}
