@@ -1,0 +1,8 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rxmulx/javascript.git",
+  "author": "Romulo silva <romulohallo12@gmail.com>",
+  "license": "MIT"
+}
